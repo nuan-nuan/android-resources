@@ -1,5 +1,5 @@
 # android-resources
-Android development resources
+Android geliştirme kaynaklari
 
 [English version](https://github.com/Tikitoo/android-resources/blob/master/README.md)
 
@@ -15,27 +15,28 @@ Android development resources
 - [Java Tutorial - TutorialSpoint](http://www.tutorialspoint.com/java/)
  - [Java Tutorial PDF](http://www.tutorialspoint.com/java/java_tutorial.pdf)
 - [Javanotes 7.0 -- Title Page](http://math.hws.edu/eck/cs124/downloads/javanotes7.pdf)
+[Pure Java](http://www.injavawetrust.com/java)
+[Kodcu.com](http://www.kodcu.com)
 
-
-## Getting started
+## Başlangıç
 
 - [Getting Started | Android Developers](https://developer.android.com/training/index.html)
 - [How to get started programming Android apps | HalfApp](http://halfapp.com/blog/get-started-programming-android-apps/)
 - [A step by step guide about how to get started and involved in Android Development - Reddit](http://www.reddit.com/r/Android/comments/1w3woc/a_step_by_step_guide_about_how_to_get_started_and/)
 - [Beginning Android Resources · codepath/android_guides Wiki](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources)
 
-## Books
+## Kitaplar
 
 - [ The Busy Coder's Guide to Android Development](http://commonsware.com/Android/)
 - [Best Android Books and Resources 2014](http://nimooli.com/blog/best-android-books-2014/)
 
-## Open courses
+## Ücretsiz Kurslar
 
 - [How to Develop Android Apps Online Course - Udacity](https://www.udacity.com/course/ud853)
 - [Programming Mobile Applications for Android (Coursera)](https://class.coursera.org/android-001/lecture)
 - [Android Development For Absolute Beginners - YouTube](https://www.youtube.com/playlist?list=PLB03EA9545DD188C3)
 
-## Series Tutorials
+## Öğretim Serileri
 
 - [Home · codepath/android_guides Wiki - codepath](https://github.com/thecodepath/android_guides/wiki)
 - [Android tutorial - TutorialSpoint](http://www.tutorialspoint.com/android/index.htm)
@@ -46,15 +47,14 @@ Android development resources
 - [Android Programming Archives - Learn2Crack](http://www.learn2crack.com/category/androidprogramming)
 - [Android Learning Path | SlideRule](https://www.mysliderule.com/learning-paths/android/learn/)
 
-## Blogs
+## Günlük Yazılar
 
 - [android-cn/android-dev-cn](https://github.com/android-cn/android-dev-cn)
 - [android-cn/android-dev-com](https://github.com/android-cn/android-dev-com)
 - [What are must-read Android developer blogs? - Quora](http://www.quora.com/What-are-must-read-Android-developer-blogs)
 - [有哪些 Android 大牛的 blog 值得推荐？ - 知乎](http://www.zhihu.com/question/19775981)
-- [vbauer/android-blogs](https://github.com/vbauer/android-blogs)
 
-## Open source App
+## Açık kaynak uygulamalar
  
 
 - [F-Droid | Free and Open Source Android App Repository](https://f-droid.org/)
@@ -62,7 +62,7 @@ Android development resources
 - [The Android Arsenal - A categorized directory of free libraries and tools for Android](https://android-arsenal.com/)
 - [Trinea/android-open-project - Trinea](https://github.com/Trinea/android-open-project)
 
-## Dev Tools
+## Geliştirici Araçları
 
 
 - [Great Code Examples & Snippets | Codota](http://www.codota.com/)
@@ -75,14 +75,14 @@ Android development resources
 - [inferjay/AndroidDevTools](https://github.com/inferjay/AndroidDevTools)
 - [Genymotion - A faster Android emulator](https://www.genymotion.com/)
 
-## Newletter
+## Haberler
 
 - [Android 周刊](http://androidweekly.net/)
 - [Android开发技术周报](http://www.androidweekly.cn/)
 - [码农周刊 - Android](https://github.com/nemoTyrant/manong#ANDROID)
 
 
-## Resources
+## Kaynaklar
 
 - [Best resources for Android development](http://www.androidauthority.com/best-resources-android-development-372414/)
 - [Resources every Android developer must know](http://www.bongizmo.com/blog/android-resources-each-developer-should-know/)
